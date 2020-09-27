@@ -1,4 +1,4 @@
-# bin83 v1.0 TI-83 squisher for Linux by Peter Martijn Kuipers (central@hyperfield.com)
+# bin83 v1.0 TI-83 squisher for Linux by Peter Martijn Kuipers
 
 This program is free software; you can redistribute it and/or modify it under
 the terms of the GNU General Public License as Published by the Free Software
